@@ -1,9 +1,7 @@
 site_name: OBSIDIAN VN
 site_url: https://haihabk51.github.io/obsidianvietnam/
-
 site_description: OBSIDIAN VN
 site_author: haihabk51
-
 repo_url: https://github.com/haihabk51/obsidianvietnam/
 
 theme:
@@ -48,7 +46,7 @@ plugins:
   - callouts
   - embed_file
   - obsidian-bridge
-  #- obsidian-support
+  # - obsidian-support
   - glightbox
   - blogging:
       dirs:
@@ -58,7 +56,7 @@ plugins:
         tags:
           index_page: tags.md
           insert: bottom
-      time_format: ' %d-%m-%Y '
+      time_format: '%d-%m-%Y'
 
 markdown_extensions:
   - admonition
@@ -77,7 +75,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
   - pymdownx.highlight:
@@ -86,7 +83,6 @@ markdown_extensions:
       pygments_lang_class: true
   - pymdownx.inlinehilite
   - pymdownx.snippets
-  - pymdownx.superfences
   - pymdownx.tabbed:
       alternate_style: true
       combine_header_slug: true
@@ -99,7 +95,6 @@ markdown_extensions:
       options:
         custom_icons:
           - overrides/.icons
-
   - toc:
       permalink: true
 
@@ -161,43 +156,8 @@ nav:
           title: "Hướng dẫn sử dụng Plugin giữa nhiều vault"
           url: "https://www.facebook.com/groups/219067851029823/posts/223744593895482/"
       - Bài 22:
-          title: "Quản lý todolist và quản lý dự án với CardBoard"
-          url: "https://www.facebook.com/groups/219067851029823/posts/233222509614357/"
+          title: "Hướng dẫn xử lý ảnh chèn vào notes"
+          url: "https://www.facebook.com/groups/219067851029823/posts/260060156930203/"
       - Bài 23:
-          title: "Tạo bảng và sử dụng bảng trong Obsidian"
-          url: "https://www.facebook.com/groups/219067851029823/posts/231771149759493/"
-      - Bài 24:
-          title: "Sử dụng Dataview dạng Task"
-          url: "https://www.facebook.com/groups/219067851029823/posts/238619882407953/"
-      - Bài 25:
-          title: "Lọc các notes trong một vault có gắn một hoặc nhiều tag"
-          url: "https://www.facebook.com/groups/219067851029823/posts/330941686509105/"
-      - Bài 26: 
-          title: "Sử dụng Dataview dạng list"
-      - Bài 27: 
-          title: "Sử dụng Dataview dạng Table"
-      - Bài 28:
-          title: "Plugin Open gate thêm website vào cửa sổ làm việc và Plugin Focus Mode"
-          url: "https://www.facebook.com/groups/219067851029823/posts/236522149284393/"
-      - Bài 29:
-          title: "Hướng dẫn tô màu text"
-          url: "https://www.facebook.com/groups/219067851029823/posts/227707163499225/"
-      - Bài 30:
-          title: "Hướng dẫn dùng Excalidraw Plugin"
-          url: "https://www.facebook.com/groups/219067851029823/posts/246889781580963/"
-      - Bài 31:
-          title: "Hướng dẫn vẽ Diagram trong note và trong Excalidraw"
-          url: "https://www.facebook.com/groups/219067851029823/posts/252671517669456/"
-      - Bài 32:
-          title: "Hướng dẫn xuất bản pdf thành file markdown"
-          url: "https://www.facebook.com/groups/219067851029823/posts/250090337927574/"
-      - Bài 33:
-          title: "Home tab Plugin"
-          url: "https://www.facebook.com/groups/219067851029823/posts/246574121612529/"
-      - Bài 34:
-          title: "Plug in TagFolder"
-          url: "https://www.facebook.com/groups/219067851029823/posts/246574121612529/"
-      - Bài 35:
-          title: "Plugin Scroll to Top Plugin"
-          url: "https://www.facebook.com/groups/594306492570157/posts/690826986251440/"
-      
+          title: "Cài đặt và sử dụng Obsidian trên điện thoại"
+          url: "https://www.facebook.com/groups/219067851029823/posts/238285779108128/"
