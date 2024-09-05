@@ -127,3 +127,7 @@ extra:
       link: https://www.khoahocobsidian.com
 
 copyright: Copyright &copy; 2024 haihanguyen
+
+nav:
+  - Trang chủ: index.md
+  - Giới thiệu:

@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# CHÀO MỪNG BẠN ĐẾN VỚI KHÓA HỌC OBSIDIAN CÙNG HẢI HÀ NGUYỄN
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+Chào mừng bạn đến với khóa học Obsidian cùng Hải Hà Nguyễn! 
+🎉 Mình rất vui khi được đồng hành cùng bạn trong hành trình này. 
+Khóa học sẽ giúp bạn khám phá cách sử dụng Obsidian để tối ưu hóa việc ghi chú và tổ chức thông tin một cách hiệu quả. Hãy sẵn sàng học hỏi và khám phá những tính năng tuyệt vời mà Obsidian mang lại. 
+Chúc bạn có những trải nghiệm học tập thú vị và bổ ích! 🚀
