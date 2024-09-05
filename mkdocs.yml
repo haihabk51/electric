@@ -9,7 +9,7 @@ repo_url: https://github.com/haihabk51/electric/
 theme:
   name: material
   icon:
-    logo: fontawesome/solid/brain
+    logo: fontawesome/solid/lightbulb-solid
     favicon: assets/meta/favicon.png
   font:
     text: Open Sans
