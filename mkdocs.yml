@@ -1,5 +1,11 @@
 site_name: HAIHA'S ELECTRIC
 site_url: https://haihabk51.github.io/electric/
+
+site_description: ELECTRIC
+site_author: haihabk51
+
+repo_url: https://github.com/haihabk51/electric/
+
 theme:
   name: material
   icon:
