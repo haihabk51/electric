@@ -1,4 +1,6 @@
 
+![600x250](https://i.imgur.com/rRohRSG.jpeg)
+
 
 ### Chào mừng bạn đến với khóa học Obsidian cùng Hải Hà Nguyễn! 
 🎉 Mình rất vui khi được đồng hành cùng bạn trong hành trình này. 
