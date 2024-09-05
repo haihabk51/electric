@@ -1,158 +1,36 @@
-site_name: OBSIDIAN VN
-site_url: https://haihabk51.github.io/obsidianvietnam/
-site_description: OBSIDIAN VN
-site_author: haihabk51
-repo_url: https://github.com/haihabk51/obsidianvietnam/
-
-theme:
-  name: material
-  icon:
-    logo: fontawesome/solid/lightbulb
-    # favicon: assets/images/favicon.png  
-    previous: fontawesome/solid/angle-left  # Thêm biểu tượng điều hướng "previous"
-    next: fontawesome/solid/angle-right     # Thêm biểu tượng điều hướng "next"
-  font:
-    text: Open Sans
-    code: Roboto Mono
-  language: en
-  palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: deep-purple
-      accent: deep-purple
-      toggle:
-        icon: material/weather-sunny
-        name: Switch to dark mode
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: black
-      toggle:
-        icon: material/weather-night
-        name: Switch to light mode
-
-features:
-  - search.suggest
-  - search.highlight
-  - navigation.footer
-  - content.action.view
-  - content.code.annotate
-  - content.code.copy
-  - content.code.select
-
-plugins:
-  - obsidian-interactive-graph
-  - search
-  - callouts
-  - embed_file
-  - obsidian-bridge
-  # - obsidian-support
-  - glightbox
-  - blogging:
-      dirs:
-        - post
-      template: overrides/custom-blog.html
-      features:
-        tags:
-          index_page: tags.md
-          insert: bottom
-      time_format: '%d-%m-%Y'
-
-markdown_extensions:
-  - admonition
-  - attr_list
-  - codehilite
-  - md_in_html
-  - def_list
-  - sane_lists
-  - pymdownx.details
-  - pymdownx.magiclink
-  - pymdownx.superfences
-  - footnotes
-  - tables
-  - pymdownx.critic
-  - pymdownx.caret
-  - pymdownx.keys
-  - pymdownx.mark
-  - pymdownx.tilde
-  - pymdownx.tasklist:
-      custom_checkbox: true
-  - pymdownx.highlight:
-      anchor_linenums: true
-      line_spans: __span
-      pygments_lang_class: true
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.tabbed:
-      alternate_style: true
-      combine_header_slug: true
-      slugify: !!python/object/apply:pymdownx.slugs.slugify
-        kwds:
-          case: lower
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-      options:
-        custom_icons:
-          - overrides/.icons
-  - toc:
-      permalink: true
-
-extra_css:
-  - assets/stylesheets/obsidian_tags.css
-  - assets/stylesheets/interactive_graph.css
-  - assets/stylesheets/embed_link.css
-
-extra_javascript:
-  - https://fastly.jsdelivr.net/npm/jquery/dist/jquery.min.js
-  - https://fastly.jsdelivr.net/npm/echarts/dist/echarts.min.js
-  - assets/javascripts/interactive_graph.js
-  - assets/javascripts/obsidian_tags.js
-
-extra:
-  social:
-    - icon: fontawesome/brands/youtube
-      link: https://www.youtube.com/@nguyenhaihabk
-    - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/hahtd3
-    - icon: fontawesome/solid/bookmark
-      link: https://substack.com/@nguyenhaiha
-    - icon: fontawesome/solid/globe
-      link: https://www.khoahocobsidian.com
-
-copyright: Copyright &copy; 2024 haihanguyen
-
 nav:
   - Trang chủ: index.md
   - Giới thiệu: about.md
   - Obsidian cơ bản:
-      - Bài 1 Hướng dẫn xem bài và trả bài trên website và Facebook Group: https://www.youtube.com/watch?v=ULiLb4jYfgk
-      - Bài 2 Hướng dẫn cài đặt Obsidian trên Windows or Mac: https://www.facebook.com/groups/219067851029823/posts/220012227602052/
-      - Bài 3 Cách chia sẻ file nhanh với Obsidian_quickShare Plugin: https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk
-      - Bài 4 Lấy file được chia sẻ hoặc lưu website về: https://www.youtube.com/watch?v=OG3ZutPNDb8
-      - Bài 5 Link Download Extension: https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi?fbclid=IwAR0NBRCwT2aJmHdVebu6AYvDEfLng_Scv3Fj3siKDdJwj9AvtM1IH6eKFn4
-      - Bài 6 Hướng dẫn làm việc giữa nhiều máy tính: https://www.facebook.com/groups/219067851029823/posts/220015034268438/
-      - Bài 7 Bắt đầu với những khái niệm ban đầu: https://www.facebook.com/groups/219067851029823/posts/221994450737163/
-      - Bài 8 Cách tạo một note theo ngày: https://www.facebook.com/groups/219067851029823/posts/224577793812162/
-      - Bài 9 Hướng dẫn dùng Canvas: https://www.facebook.com/groups/219067851029823/posts/227692430167365/
-      - Bài 10 Vẽ Mindmap trong Canvas (Cách 1): https://www.facebook.com/groups/219067851029823/posts/235964019340206/
-      - Bài 11 Vẽ Mindmap trong Canvas (Cách 2): https://www.facebook.com/groups/219067851029823/posts/247747488161859/
-      - Bài 12 Bài Tags và làm việc với tags: https://www.facebook.com/groups/219067851029823/posts/227941730142435/
-      - Bài 13 Các phương pháp tìm kiếm file: https://www.facebook.com/groups/219067851029823/posts/232932222976719/
-      - Bài 14 Hướng dẫn tìm kiếm file cơ bản: https://www.facebook.com/groups/219067851029823/posts/227826946820580/
-      - Bài 15 Hướng dẫn tìm kiếm file nâng cao: https://www.facebook.com/groups/219067851029823/posts/227804093489532/
-      - Bài 16 Chữa bài - Một số khó khăn: https://www.facebook.com/groups/219067851029823/posts/231620186441256/
-      - Bài 17 Một số Tip: https://www.facebook.com/groups/219067851029823/posts/239179162352025/
-      - Bài 18 Làm việc với các Workspace: https://www.facebook.com/groups/219067851029823/posts/359309507005656/
+      - Bài 1 Hướng dẫn xem bài và trả bài trên website và Facebook Group: "https://www.youtube.com/watch?v=ULiLb4jYfgk"
+      - Bài 2 Hướng dẫn cài đặt Obsidian trên Windows or Mac: "https://www.facebook.com/groups/219067851029823/posts/220012227602052/"
+      - Bài 3 Cách chia sẻ file nhanh với Obsidian_quickShare Plugin: "https://www.youtube.com/watch?v=OG3ZutPNDb8&fbclid=IwAR2IDYg-EVx79Cc6QTPT0kgb3NQLztHdf_jVR6k_wXKvA6YmELjnnuLOIwk"
+      - Bài 4 Lấy file được chia sẻ hoặc lưu website về: "https://www.youtube.com/watch?v=OG3ZutPNDb8"
+      - Bài 5 Link Download Extension: "https://chrome.google.com/webstore/detail/markdownload-markdown-web/pcmpcfapbekmbjjkdalcgopdkipoggdi?fbclid=IwAR0NBRCwT2aJmHdVebu6AYvDEfLng_Scv3Fj3siKDdJwj9AvtM1IH6eKFn4"
+      - Bài 6 Hướng dẫn làm việc giữa nhiều máy tính: "https://www.facebook.com/groups/219067851029823/posts/220015034268438/"
+      - Bài 7 Bắt đầu với những khái niệm ban đầu: "https://www.facebook.com/groups/219067851029823/posts/221994450737163/"
+      - Bài 8 Cách tạo một note theo ngày: "https://www.facebook.com/groups/219067851029823/posts/224577793812162/"
+      - Bài 9 Hướng dẫn dùng Canvas: "https://www.facebook.com/groups/219067851029823/posts/227692430167365/"
+      - Bài 10 Vẽ Mindmap trong Canvas (Cách 1): "https://www.facebook.com/groups/219067851029823/posts/235964019340206/"
+      - Bài 11 Vẽ Mindmap trong Canvas (Cách 2): "https://www.facebook.com/groups/219067851029823/posts/247747488161859/"
+      - Bài 12 Bài Tags và làm việc với tags: "https://www.facebook.com/groups/219067851029823/posts/227941730142435/"
+      - Bài 13 Các phương pháp tìm kiếm file: "https://www.facebook.com/groups/219067851029823/posts/232932222976719/"
+      - Bài 14 Hướng dẫn tìm kiếm file cơ bản: "https://www.facebook.com/groups/219067851029823/posts/227826946820580/"
+      - Bài 15 Hướng dẫn tìm kiếm file nâng cao: "https://www.facebook.com/groups/219067851029823/posts/227804093489532/"
+      - Bài 16 Chữa bài - Một số khó khăn: "https://www.facebook.com/groups/219067851029823/posts/231620186441256/"
+      - Bài 17 Một số Tip: "https://www.facebook.com/groups/219067851029823/posts/239179162352025/"
+      - Bài 18 Làm việc với các Workspace: "https://www.facebook.com/groups/219067851029823/posts/359309507005656/"
 
   - Danh sách bài học nâng cao:
-      - Bài 19 Hướng dẫn xem mindmap của notes: https://www.facebook.com/groups/219067851029823/posts/250546011215340/
-      - Bài 20 Hướng dẫn dùng plugin Quickadd-nâng cao của template: https://www.facebook.com/groups/219067851029823/posts/251081967828411/
-      - Bài 21 Hướng dẫn sử dụng Plugin giữa nhiều vault: https://www.facebook.com/groups/219067851029823/posts/223744593895482/
-      - Bài 22 Hướng dẫn xử lý ảnh chèn vào notes: https://www.facebook.com/groups/219067851029823/posts/260060156930203/
-      - Bài 23 Cài đặt và sử dụng Obsidian trên điện thoại: https://www.facebook.com/groups/219067851029823/posts/238285779108128/
+      - Bài 19 Hướng dẫn xem mindmap của notes: "https://www.facebook.com/groups/219067851029823/posts/250546011215340/"
+      - Bài 20 Hướng dẫn dùng plugin Quickadd-nâng cao của template: "https://www.facebook.com/groups/219067851029823/posts/251081967828411/"
+      - Bài 21 Hướng dẫn sử dụng Plugin giữa nhiều vault: "https://www.facebook.com/groups/219067851029823/posts/223744593895482/"
+      - Bài 22 Hướng dẫn xử lý ảnh chèn vào notes: "https://www.facebook.com/groups/219067851029823/posts/260060156930203/"
+      - Bài 23 Cài đặt và sử dụng Obsidian trên điện thoại: "https://www.facebook.com/groups/219067851029823/posts/238285779108128/"
       - Bài 24 Sử dụng Dataview dạng Task: "https://www.facebook.com/groups/219067851029823/posts/238619882407953/"
       - Bài 25 Lọc các notes trong một vault có gắn một hoặc nhiều tag: "https://www.facebook.com/groups/219067851029823/posts/330941686509105/"
+      - Bài 26 Sử dụng Dataview dạng list
+      - Bài 27 Sử dụng Dataview dạng Table
       - Bài 28 Plugin Open gate thêm website vào cửa sổ làm việc và Plugin Focus Mode: "https://www.facebook.com/groups/219067851029823/posts/236522149284393/"
       - Bài 29 Hướng dẫn tô màu text: "https://www.facebook.com/groups/219067851029823/posts/227707163499225/"
       - Bài 30 Hướng dẫn dùng Excalidraw Plugin: "https://www.facebook.com/groups/219067851029823/posts/246889781580963/"
@@ -161,3 +39,7 @@ nav:
       - Bài 33 Home tab Plugin: "https://www.facebook.com/groups/219067851029823/posts/246574121612529/"
       - Bài 34 Plug in TagFolder: "https://www.facebook.com/groups/219067851029823/posts/246574121612529/"
       - Bài 35 Plugin Scroll to Top Plugin: "https://www.facebook.com/groups/594306492570157/posts/690826986251440/"
+      - Bài 36 Chia sẻ 3 plugin thú vị mình đang sử dụng: "https://www.facebook.com/groups/219067851029823/posts/251603437776264/"
+      - Bài 37 3 cách chia sẻ file tới người khác Quickshare, Telegraph, Obsius: "https://www.facebook.com/groups/219067851029823/posts/262472686689339/"
+      - Bài 38 Hướng dẫn Plugin tray và plugin memos: "https://www.facebook.com/groups/219067851029823/posts/261891956747412/"
+      - Bài 39 Đồng bộ điện thoại và máy tính bằng remotely save: "https://www.facebook.com/groups/219067851029823/posts/335612706042003/"

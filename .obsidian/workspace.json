@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e8ecb38089593e9",
+        "id": "27daf4798045c78c",
         "type": "tabs",
         "children": [
           {
-            "id": "59627bdb2aa77eda",
+            "id": "a3c2f4719712aedc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/about.md",
+                "file": "docs/tags.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/about.md",
+                "file": "docs/tags.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/about.md",
+                "file": "docs/tags.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/about.md"
+                "file": "docs/tags.md"
               }
             }
           }
@@ -146,11 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "59627bdb2aa77eda",
+  "active": "a3c2f4719712aedc",
   "lastOpenFiles": [
-    "docs/Đồng bộ điện thoại và máy tính bằng remotely save plugin.md",
     "docs/index.md",
     "docs/about.md",
+    "docs/Đồng bộ điện thoại và máy tính bằng remotely save plugin.md",
     "docs/tags.md",
     "docs/assets/images/banner1.png"
   ]
