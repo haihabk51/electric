@@ -1,0 +1,19 @@
+---
+dg-publish: true
+Dg-pinned: true
+Dg-home: true
+Dg-note-icon: 2
+---
+
+![](https://i.imgur.com/SjSyDpr.png)
+
+Chào bạn mình là Nguyễn Hải Hà -mình sinh năm 1988 để bạn tiện xưng hô.
+Mình là một người ham học hỏi. Mình đã sử dụng và giảng dạy #Obsidian được >2 năm. Đây là một quá trình tự học hỏi và nghiền ngẫm đúc rút các kinh nghiệm sử dụng và hướng dẫn mọi người từ cơ bản đến nâng cao, giúp mọi người tự tin sử dụng #obsidian như là một bộ não thứ hai #secondbrain để nghiên cứu, tổng hợp kiến thức . 
+
+- Nếu bạn đã biết sơ sơ về Obsidian thì hãy cùng mình học hỏi với tâm thế ly nước vơi để tiếp thu thêm hoặc bổ sung thêm cách sử dụng.
+- Quá trình hướng dẫn mình cũng luôn cố gắng làm tốt theo khả năng của mình và không thể tránh khỏi những thiếu xót.
+ Mong nhận được nhiều ý kiến đóng góp và hỗ trợ từ các bạn
+
+  
+  Thân ái.❤️❤️❤️❤️❤️❤️❤️❤️❤️
+  
