@@ -10,7 +10,7 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/lightbulb
-    # favicon: assets/images/favicon.png  
+    favicon: fontawesome/solid/graduation-cap
     previous: fontawesome/solid/angle-left  # Thêm biểu tượng điều hướng "previous"
     next: fontawesome/solid/angle-right     # Thêm biểu tượng điều hướng "next"
   font:
@@ -150,7 +150,6 @@ nav:
       - Bài 16 Chữa bài - Một số khó khăn: "https://www.facebook.com/groups/219067851029823/posts/231620186441256/"
       - Bài 17 Một số Tip: "https://www.facebook.com/groups/219067851029823/posts/239179162352025/"
       - Bài 18 Làm việc với các Workspace: "https://www.facebook.com/groups/219067851029823/posts/359309507005656/"
-
   - Danh sách bài học nâng cao:
       - Bài 19 Hướng dẫn xem mindmap của notes: "https://www.facebook.com/groups/219067851029823/posts/250546011215340/"
       - Bài 20 Hướng dẫn dùng plugin Quickadd-nâng cao của template: "https://www.facebook.com/groups/219067851029823/posts/251081967828411/"
@@ -173,3 +172,18 @@ nav:
       - Bài 37 3 cách chia sẻ file tới người khác Quickshare, Telegraph, Obsius: "https://www.facebook.com/groups/219067851029823/posts/262472686689339/"
       - Bài 38 Hướng dẫn Plugin tray và plugin memos: "https://www.facebook.com/groups/219067851029823/posts/261891956747412/"
       - Bài 39 Đồng bộ điện thoại và máy tính bằng remotely save: "https://www.facebook.com/groups/219067851029823/posts/335612706042003/"
+  - Học Tiếng Anh trong Obsidian:
+      - Lấy Transcript của Youtube: "https://www.facebook.com/groups/219067851029823/posts/232158386387436/"
+      - Tạo thẻ anki từ Obsidian với Plugin Obsidian to Anki: "https://www.youtube.com/watch?v=qKOLjNizmwk"
+      - Nghe Podcast trong obsidian: "https://www.youtube.com/watch?v=b3u0SNtnjrk"
+  - Một số Tip và Thực Hành thực tế:
+      - Ví dụ takenote trên điện thoại: "https://www.youtube.com/watch?v=RGwjrkulloo"
+      - Tập trung làm việc với một folder - Plugin File tree: "https://www.facebook.com/groups/219067851029823/posts/339382625665011/"
+      - Hướng dẫn vừa xem youtube vừa takenote: "https://www.facebook.com/groups/219067851029823/posts/331872466416027/"
+      - Đọc sách tiếng anh - tạo highlight và export tạo danh sách từ mới: "https://www.facebook.com/groups/219067851029823/posts/356310283972245/"
+      - Chuyển file pdf thành file markdown: "https://www.facebook.com/groups/219067851029823/posts/357718997164707/"
+  - Tạo Website với obsidian:
+      - Tạo Website với publish obsidian mặc định: Tao-web-voi-publish-obsidian.md
+      - Tạo Web miễn phí với mkdocs: Cac-buoc-tao-website-voi-mkdocs.md
+  - Ứng Dụng Dataview:
+      - Lọc các Note trong vaults theo tags: loc-note-theo-tag.md
