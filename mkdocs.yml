@@ -10,7 +10,7 @@ theme:
   name: material
   icon:
     logo: fontawesome/solid/lightbulb
-    favicon: fontawesome/solid/graduation-cap
+    favicon: fontawesome/solid/brain
     previous: fontawesome/solid/angle-left  # Thêm biểu tượng điều hướng "previous"
     next: fontawesome/solid/angle-right     # Thêm biểu tượng điều hướng "next"
   font:
