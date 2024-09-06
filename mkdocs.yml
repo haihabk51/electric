@@ -183,7 +183,7 @@ nav:
       - Đọc sách tiếng anh - tạo highlight và export tạo danh sách từ mới: "https://www.facebook.com/groups/219067851029823/posts/356310283972245/"
       - Chuyển file pdf thành file markdown: "https://www.facebook.com/groups/219067851029823/posts/357718997164707/"
   - Tạo Website với obsidian:
-      - Tạo Website với publish obsidian mặc định: Tao-web/Tao-web-voi-publish-obsidian.md
-      - Tạo Web miễn phí với mkdocs: Tao-web/Cac-buoc-tao-website-voi-mkdocs.md
+      - Tạo Website với publish obsidian mặc định: "Tao-web/Tao-web-voi-publish-obsidian.md"
+      - Tạo Web miễn phí với mkdocs: "Tao-web/Cac-buoc-tao-website-voi-mkdocs.md"
   - Ứng Dụng Dataview:
-      - Lọc các Note trong vaults theo tags: loc-note-theo-tag.md
+      - Lọc các Note trong vaults theo tags: "dataview/loc-note-theo-tag.md"
