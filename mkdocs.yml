@@ -185,12 +185,9 @@ nav:
   - Ứng Dụng Dataview:
       - Lọc các Note trong vaults theo tags: "dataview/loc-note-theo-tag.md"
   - Tạo Website với mặc định có sẵn của obsidian:
-      - Tạo Website với publish obsidian mặc định: "Tao-web/Tao-web-voi-publish-obsidian.md"
+      - Tạo Website với publish obsidian mặc định: "web/Tao-web-voi-publish-obsidian.md"
   - Tạo web 0 đồng với mkdocs:
-      - Hướng dẫn Tổng Quát Tạo Web miễn phí với mkdocs: "mkdocs/Cac-buoc-tao-website-voi-mkdocs-full.md"
-      - Video 01: "mkdocs/video-01.md"
-      - Video 02: "mkdocs/video-02.md"
-      - Video 03: "mkdocs/video-03.md"
-      - Video 04: "mkdocs/video-04.md"
-      - Video Phần 02 Thực Hành: ""
+      - Hướng dẫn Tổng Quát Tạo Web miễn phí với mkdocs: "web/Cac-buoc-tao-website-voi-mkdocs.md"
+      - Video Phần 01 Chuẩn bị: ""
+      - Video Phần 02 Thực Hành: "https://www.facebook.com/groups/219067851029823/posts/481164111486861/"
       
