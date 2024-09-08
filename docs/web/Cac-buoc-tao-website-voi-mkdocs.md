@@ -32,6 +32,7 @@ category: Obsidian
 
 Github destop đăng nhập bằng tài khoản github của bạn.
 Vào mục File-> clone repository -> Paste đường link ở bước 1 để clone thư mục về máy tính. 
+![](https://i.imgur.com/tGhBdw0.png)
 
 ### B3  Vào VS code
  - Chọn file -Open folder vừa tạo ở bước 2
@@ -75,15 +76,8 @@ Website bên trên là một web cơ bản nhất ( tempalte ) Giờ ta cần l�
  Trong folder ==blog==  ( trong ví dụ của mình là folder blog)
 Mở Folder template của thiện qc tải ở bước B1 Copy các tệp sau vào folder của mình
 
-![](https://i.imgur.com/7iZxVU7.png)
-
-
-> [!NOTE] Một số lưu ý khi copy
-> tệp mkdocs thì đè lên tệp cũ của mình ( để đỡ phải setup nhiều)
-
-
-mở tiếp thư mục docs của thienqc copy tiếp sang thư mục của mình
-![](https://i.imgur.com/DvjeTAQ.png)
+Copy toàn bộ thư mục của bạn đè lên thư mục có sẵn  của mình.
+ ( nếu bạn sử dụng template khác thì cũng làm tương tự.)
 #### B5.2 Giờ chỉnh lại một chút file mkdocs.yml để thành web của mình
 
 ![](https://i.imgur.com/MDp8rEm.png)
@@ -94,3 +88,6 @@ Xong rồi thì lưu lại nhé
 
 ![](https://i.imgur.com/LmEl2s8.png)
 Chờ và truy nhập web thôi
+
+#### Truy nhập Web
+![](https://i.imgur.com/9ODJJ5S.png)
