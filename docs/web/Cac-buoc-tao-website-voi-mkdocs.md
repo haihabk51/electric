@@ -75,7 +75,7 @@ Website bên trên là một web cơ bản nhất ( tempalte ) Giờ ta cần l�
  Trong folder ==blog==  ( trong ví dụ của mình là folder blog)
 Mở Folder template của thiện qc tải ở bước B1 Copy các tệp sau vào folder của mình
 
-Copy toàn bộ thư mục của bạn đè lên thư mục có sẵn  của mình.
+Copy ==toàn bộ thư mục của bạn thiện== đè lên thư mục có sẵn  của mình.
  ( nếu bạn sử dụng template khác thì cũng làm tương tự.)
 ( nhớ ghi đè cả file mkdocs.yml - nếu đang mở ở VS code thì tắt đi để nó được ghi đè).
 #### B5.2 Giờ chỉnh lại một chút file mkdocs.yml để thành web của mình
