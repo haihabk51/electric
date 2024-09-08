@@ -59,7 +59,6 @@ Sau bước này sẽ thấy trong folder có thêm file mkdocs.yml và folder d
 Xong rồi, giờ ta gõ tiếp ,lệnh này là để ==preview== web thôi. 
 
 
-
 ```
 mkdocs server
 ```
@@ -78,6 +77,7 @@ Mở Folder template của thiện qc tải ở bước B1 Copy các tệp sau v
 
 Copy toàn bộ thư mục của bạn đè lên thư mục có sẵn  của mình.
  ( nếu bạn sử dụng template khác thì cũng làm tương tự.)
+( nhớ ghi đè cả file mkdocs.yml - nếu đang mở ở VS code thì tắt đi để nó được ghi đè).
 #### B5.2 Giờ chỉnh lại một chút file mkdocs.yml để thành web của mình
 
 ![](https://i.imgur.com/MDp8rEm.png)
