@@ -1,10 +1,10 @@
 site_name: OBSIDIAN VN
-site_url: https://haihabk51.github.io/obsidianvietnam/
+site_url: https://haihabk51.github.io/obsidianvn/
 
 site_description: OBSIDIAN VN
 site_author: haihabk51
 
-repo_url: https://github.com/haihabk51/obsidianvietnam/
+repo_url: https://github.com/haihabk51/obsidianvb/
 
 theme:
   name: material
