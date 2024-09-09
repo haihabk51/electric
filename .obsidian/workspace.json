@@ -4,36 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "27daf4798045c78c",
+        "id": "5354544f51c963fe",
         "type": "tabs",
         "children": [
           {
-            "id": "a3c2f4719712aedc",
+            "id": "dc5751f973f40cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/Properties/Obsidian-cach-them-properties-vao-obsidian.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "bfc07654216b5426",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9242559864ceae4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
-                "mode": "source",
-                "source": true
               }
             }
           }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/Properties/Obsidian-cach-them-properties-vao-obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/Properties/Obsidian-cach-them-properties-vao-obsidian.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md"
+                "file": "docs/Properties/Obsidian-cach-them-properties-vao-obsidian.md"
               }
             }
           }
@@ -164,21 +146,27 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d9242559864ceae4",
+  "active": "21f012f8edaa1323",
   "lastOpenFiles": [
-    "docs/about.md",
+    "docs/Properties/tong-hop-Properties.md",
+    "docs/Properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md",
+    "docs/Properties/Obsidian-Doi-ten-nhieu-properties.md",
+    "docs/Properties/Properties.md",
+    "docs/tags.md",
+    "docs/Properties/Obsidian-cach-them-properties-vao-obsidian.md",
+    "docs/Properties",
     "docs/index.md",
-    "mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
+    "docs/enroll.md",
+    "docs/about.md",
     "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+    "mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
     "mkdocs/video01.md",
     "mkdocs/video02.md",
     "template/draft/github-action.md",
     "template/draft",
     "template/temp.md",
     "template",
-    "docs/tags.md",
     "mkdocs",
-    "docs/enroll.md",
     "CNAME",
     "docs/Đồng bộ điện thoại và máy tính bằng remotely save plugin.md",
     "docs/assets/images/banner1.png"
