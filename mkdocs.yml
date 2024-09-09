@@ -150,6 +150,11 @@ nav:
       - Bài 16 Chữa bài - Một số khó khăn: "https://www.facebook.com/groups/219067851029823/posts/231620186441256/"
       - Bài 17 Một số Tip: "https://www.facebook.com/groups/219067851029823/posts/239179162352025/"
       - Bài 18 Làm việc với các Workspace: "https://www.facebook.com/groups/219067851029823/posts/359309507005656/"
+  - Properties Obsidian:
+      - Bài Tổng hợp: "Properties/tong-hop-Properties.md"
+      - Cách thêm properties: "Properties/Obsidian-cach-them-properties-vao-obsidian.md"
+      - Thêm properites vào nhiều notes: "Properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md"
+      - Đổi tên nhiều properties sau khi thêm như thế nào: "Properties/Obsidian-Doi-ten-nhieu-properties.md"
   - Danh sách bài học nâng cao:
       - Bài 19 Hướng dẫn xem mindmap của notes: "https://www.facebook.com/groups/219067851029823/posts/250546011215340/"
       - Bài 20 Hướng dẫn dùng plugin Quickadd-nâng cao của template: "https://www.facebook.com/groups/219067851029823/posts/251081967828411/"
@@ -189,10 +194,5 @@ nav:
   - Tạo web 0 đồng với mkdocs:
       - Hướng dẫn Tổng Quát Tạo Web miễn phí với mkdocs: "web/Cac-buoc-tao-website-voi-mkdocs.md"
       - Video Phần 01 Chuẩn bị: "https://www.facebook.com/groups/219067851029823/posts/481193594817246/"
-      - Video Phần 02 Thực Hành: "https://www.facebook.com/groups/219067851029823/posts/481164111486861/"
-      
-  - Properties Obsidian:
-      - Bài Tổng hợp: "Properties/tong-hop-Properties.md"
-      - Cách thêm properties: "Properties/Obsidian-cach-them-properties-vao-obsidian.md"
-      - Thêm properites vào nhiều notes: "Properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md"
-      - Đổi tên nhiều properties sau khi thêm như thế nào: "Properties/Obsidian-Doi-ten-nhieu-properties.md"
+      - Video Phần 02 Thực Hành: "https://www.facebook.com/groups/219067851029823/posts/481164111486861/"  
+ 
