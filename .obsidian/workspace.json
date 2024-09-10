@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md"
+                "file": "docs/khoa-hoc/01-dang-ky-obsidian-full.md"
               }
             }
           }
@@ -149,10 +149,10 @@
   },
   "active": "d62ea02e11691605",
   "lastOpenFiles": [
-    "docs/web/Tao-web-voi-publish-obsidian.md",
-    "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
     "docs/khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
     "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
+    "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+    "docs/web/Tao-web-voi-publish-obsidian.md",
     "docs/index.md",
     "docs/khoa-hoc",
     "docs/dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
