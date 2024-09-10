@@ -17,13 +17,12 @@ category: Obsidian
 - [Tải VS Code **Xem video**](https://www.youtube.com/watch?v=U-TQW_rVkro&list=PLTU8gHZSdtjYRsXBvbniKbZn8vY44Zd3g&index=2)
 - [Tải Github destop](https://www.youtube.com/watch?v=rW_vnZZzgQ0&list=PLTU8gHZSdtjYRsXBvbniKbZn8vY44Zd3g&index=3)
 -  [Đăng ký tài khoản github](https://www.youtube.com/watch?v=PoRCndc4fps)- [Cài đặt Python](https://youtu.be/xENoRb-pL1Y)
-## [Thực Hành](https://www.facebook.com/groups/219067851029823/posts/481164111486861/)
+## [Video phần thực Hành](https://www.facebook.com/groups/219067851029823/posts/481164111486861/)
 
-### Update và bổ xung.
-Nếu bạn yêu thích phong cách của 
+
+🍀 Nếu bạn yêu thích phong cách của 
 
  ==khoahocobsidian.com== và ==nguyenhaiha.com== thì có thể xem thêm phần sau nhé. [LINK](https://www.facebook.com/groups/219067851029823/posts/482547391348533/)
 
-#### Câu hỏi.
 
-- Chỉnh cấu hình Domain theo cá nhân như thế nào?  xem ở video này nhé LINK
+🍀 Chỉnh cấu hình Domain theo cá nhân như thế nào?  xem ở video này nhé LINK
