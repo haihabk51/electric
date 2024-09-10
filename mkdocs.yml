@@ -130,8 +130,9 @@ copyright: Copyright &copy; 2024 haihanguyen
 nav:
   - Trang chủ: index.md
   - Giới thiệu: about.md
-  - Đăng Ký học: "dang-ky-khoa-hoc/01-dang-ky-obsidian-full.md"
-  - Đăng Ký học làm web 0 đồng với mkdocs: "dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md"
+  - Đăng Ký học: 
+      - Khóa học Obsidian Full: "dang-ky-khoa-hoc/01-dang-ky-obsidian-full.md"
+      - Đăng Ký học làm web 0 đồng với mkdocs: "dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md"
   - Obsidian cơ bản:
       - Bài 1 Hướng dẫn xem bài và trả bài trên website và Facebook Group: "https://www.youtube.com/watch?v=ULiLb4jYfgk"
       - Bài 2 Hướng dẫn cài đặt Obsidian trên Windows or Mac: "https://www.facebook.com/groups/219067851029823/posts/220012227602052/"
