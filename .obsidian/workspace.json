@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/dang-ky-khoa-hoc/01-dang-ky-obsidian-full.md",
+                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/index.md"
+                "file": "docs/khoa-hoc/02-dang-ky-lam-web-mkdocs.md"
               }
             }
           }
@@ -167,9 +167,13 @@
   },
   "active": "d62ea02e11691605",
   "lastOpenFiles": [
+    "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
+    "docs/khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
+    "docs/index.md",
+    "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+    "docs/khoa-hoc",
     "docs/dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
     "docs/dang-ky-khoa-hoc/01-dang-ky-obsidian-full.md",
-    "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
     "docs/dang-ky-khoa-hoc",
     "docs/Properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "template/Untitled.md",
@@ -179,7 +183,6 @@
     "docs/Properties/Properties.md",
     "docs/tags.md",
     "docs/Properties",
-    "docs/index.md",
     "docs/enroll.md",
     "docs/about.md",
     "mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",

@@ -10,4 +10,4 @@ share:
 category:
 ---
 
-![LINK ĐĂNG KÝ PHẦN TẠO WEB 0 ĐỒNG VỚI MKDOCS](https://forms.gle/FHovNTyH5vWgjgbW8)
+✔️[LINK ĐĂNG KÝ PHẦN TẠO WEB 0 ĐỒNG VỚI MKDOCS](https://forms.gle/FHovNTyH5vWgjgbW8)
