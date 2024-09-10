@@ -13,24 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "1f4859a0c78fb3d8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fbb1a75c761b3b7b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
                 "mode": "source",
                 "source": true
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
+                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
+                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/khoa-hoc/01-dang-ky-obsidian-full.md"
+                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md"
               }
             }
           }
@@ -167,10 +149,11 @@
   },
   "active": "d62ea02e11691605",
   "lastOpenFiles": [
+    "docs/web/Tao-web-voi-publish-obsidian.md",
+    "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
     "docs/khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
     "docs/khoa-hoc/01-dang-ky-obsidian-full.md",
     "docs/index.md",
-    "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
     "docs/khoa-hoc",
     "docs/dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
     "docs/dang-ky-khoa-hoc/01-dang-ky-obsidian-full.md",

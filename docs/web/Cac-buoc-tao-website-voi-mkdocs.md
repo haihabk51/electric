@@ -10,7 +10,7 @@ category: Obsidian
 ---
 ## Nguồn tham khảo:
 - [link của mkdocs](https://squidfunk.github.io/mkdocs-material/getting-started/)
-- [Blog của Hà](nguyenhaiha.com)
+- [Blog của Hà](https://www.nguyenhaiha.com/)
 - [Blog Thiện qc](https://thienqc.github.io/blog/tags/)
 ## Chuẩn bị những gì
 
