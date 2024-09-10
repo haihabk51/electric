@@ -131,7 +131,7 @@ nav:
   - Trang chủ: index.md
   - Giới thiệu: about.md
   - Đăng Ký học: 
-      - Khóa học Obsidian Full: "khoa-hoc/01-dang-ky-obsidian-full.md"
+      - Đăng ký Khóa học Obsidian Full: "khoa-hoc/01-dang-ky-obsidian-full.md"
       - Đăng Ký học làm web 0 đồng với mkdocs: "khoa-hoc/02-dang-ky-lam-web-mkdocs.md"
   - Obsidian cơ bản:
       - Bài 1 Hướng dẫn xem bài và trả bài trên website và Facebook Group: "https://www.youtube.com/watch?v=ULiLb4jYfgk"
@@ -153,7 +153,7 @@ nav:
       - Bài 17 Một số Tip: "https://www.facebook.com/groups/219067851029823/posts/239179162352025/"
       - Bài 18 Làm việc với các Workspace: "https://www.facebook.com/groups/219067851029823/posts/359309507005656/"
   - Properties Obsidian:
-      - Bài Tổng hợp: "Properties/tong-hop-Properties.md"
+      - Bài Tổng hợp về Properties: "Properties/tong-hop-Properties.md"
       - Cách thêm properties: "Properties/Obsidian-cach-them-properties-vao-obsidian.md"
       - Thêm properites vào nhiều notes: "Properties/Obsidian-Them-dong-thoi-properties vao-nhieu-file-obsidian.md"
       - Đổi tên nhiều properties sau khi thêm như thế nào: "Properties/Obsidian-Doi-ten-nhieu-properties.md"
