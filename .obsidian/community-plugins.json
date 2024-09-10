@@ -1,4 +1,7 @@
 [
   "obsidian-imgur-plugin",
-  "url-into-selection"
+  "url-into-selection",
+  "obsidian-emoji-toolbar",
+  "cmdr",
+  "templater-obsidian"
 ]

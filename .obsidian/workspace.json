@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "5354544f51c963fe",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "dc5751f973f40cc4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "5f8729fad6e1d803",
         "type": "tabs",
         "children": [
@@ -31,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1f4859a0c78fb3d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbb1a75c761b3b7b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/dang-ky-khoa-hoc/01-dang-ky-obsidian-full.md",
                 "mode": "source",
                 "source": true
               }
@@ -103,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+                "file": "docs/dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/web/Cac-buoc-tao-website-voi-mkdocs.md"
+                "file": "docs/dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md"
               }
             }
           }
@@ -161,11 +161,16 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "d62ea02e11691605",
   "lastOpenFiles": [
+    "docs/dang-ky-khoa-hoc/01-dang-ky-obsidian-full.md",
+    "docs/dang-ky-khoa-hoc/02-dang-ky-lam-web-mkdocs.md",
+    "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
+    "docs/dang-ky-khoa-hoc",
     "docs/Properties/Obsidian-cach-them-properties-vao-obsidian.md",
     "template/Untitled.md",
     "docs/Properties/tong-hop-Properties.md",
@@ -177,7 +182,6 @@
     "docs/index.md",
     "docs/enroll.md",
     "docs/about.md",
-    "docs/web/Cac-buoc-tao-website-voi-mkdocs.md",
     "mkdocs/Cac-buoc-tao-website-voi-mkdocs.md",
     "mkdocs/video01.md",
     "mkdocs/video02.md",
