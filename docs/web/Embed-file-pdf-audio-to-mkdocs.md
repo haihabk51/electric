@@ -4,6 +4,7 @@ aliases:
   - Thêm pdf  và audio vào web như nào đây
 tags:
   - pdf
+  - MKDOCS
 date: 
 share: 
 category:
