@@ -1,0 +1,90 @@
+{
+  "nodes": [
+    {
+      "id": "0",
+      "name": "Trang ch\u1ee7",
+      "symbolSize": 0,
+      "value": "/"
+    },
+    {
+      "id": "1",
+      "name": "Gi\u1edbi thi\u1ec7u",
+      "symbolSize": 0,
+      "value": "/about/"
+    },
+    {
+      "id": "2",
+      "name": "\u0110\u0103ng k\u00fd Kh\u00f3a h\u1ecdc Obsidian Full",
+      "symbolSize": 0,
+      "value": "/khoa-hoc/01-dang-ky-obsidian-full/"
+    },
+    {
+      "id": "3",
+      "name": "\u0110\u0103ng K\u00fd h\u1ecdc l\u00e0m web 0 \u0111\u1ed3ng v\u1edbi mkdocs",
+      "symbolSize": 0,
+      "value": "/khoa-hoc/02-dang-ky-lam-web-mkdocs/"
+    },
+    {
+      "id": "4",
+      "name": "B\u00e0i T\u1ed5ng h\u1ee3p v\u1ec1 Properties",
+      "symbolSize": 3,
+      "value": "/Properties/tong-hop-Properties/"
+    },
+    {
+      "id": "5",
+      "name": "C\u00e1ch th\u00eam properties",
+      "symbolSize": 1,
+      "value": "/Properties/Obsidian-cach-them-properties-vao-obsidian/"
+    },
+    {
+      "id": "6",
+      "name": "Th\u00eam properites v\u00e0o nhi\u1ec1u notes",
+      "symbolSize": 1,
+      "value": "/Properties/Obsidian-Them-dong-thoi-properties%20vao-nhieu-file-obsidian/"
+    },
+    {
+      "id": "7",
+      "name": "\u0110\u1ed5i t\u00ean nhi\u1ec1u properties sau khi th\u00eam nh\u01b0 th\u1ebf n\u00e0o",
+      "symbolSize": 1,
+      "value": "/Properties/Obsidian-Doi-ten-nhieu-properties/"
+    },
+    {
+      "id": "8",
+      "name": "L\u1ecdc c\u00e1c Note trong vaults theo tags",
+      "symbolSize": 0,
+      "value": "/dataview/loc-note-theo-tag/"
+    },
+    {
+      "id": "9",
+      "name": "T\u1ea1o Website v\u1edbi publish obsidian m\u1eb7c \u0111\u1ecbnh",
+      "symbolSize": 0,
+      "value": "/web/Tao-web-voi-publish-obsidian/"
+    },
+    {
+      "id": "10",
+      "name": "H\u01b0\u1edbng d\u1eabn T\u1ed5ng Qu\u00e1t T\u1ea1o Web mi\u1ec5n ph\u00ed v\u1edbi mkdocs",
+      "symbolSize": 0,
+      "value": "/web/Cac-buoc-tao-website-voi-mkdocs/"
+    },
+    {
+      "id": "11",
+      "name": "Th\u00eam pdf v\u00e0 Audio v\u00e0o Web",
+      "symbolSize": 0,
+      "value": "/web/Embed-file-pdf-audio-to-mkdocs/"
+    }
+  ],
+  "links": [
+    {
+      "source": "4",
+      "target": "5"
+    },
+    {
+      "source": "4",
+      "target": "7"
+    },
+    {
+      "source": "4",
+      "target": "6"
+    }
+  ]
+}
